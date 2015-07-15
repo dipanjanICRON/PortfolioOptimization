@@ -1,0 +1,5 @@
+setInternet2(TRUE)
+
+source(gzcon(url('https://github.com/systematicinvestor/SIT/raw/master/sit.gz','rb')))
+
+library(quantmod)
